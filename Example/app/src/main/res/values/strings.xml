@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- English -->
+
+    <string name="app_name">Navratri Ena</string>
+    <string name="app_name_full">Welcome to Bombay Market-Punagam Medical Association</string>
+    <string name="rights">© 2016 Liveena.com. All Right Reserved</string>
+
+    <!-- Common -->
+    <string name="contact_us">Contact us</string>
+    <string name="KetanPatel">Ketan Patel</string>
+    <string name="phoneno">+91 9825600041</string>
+    <string name="email">ketansavaliya@yahoo.co.in</string>
+
+    <string name="No_Internet">Internet connection is not available.</string>
+    <string name="Yourmessagewassentsuccessfully">Your message was sent successfully.</string>
+    <string name="No_Video">Live Stream is not available.\nPlease try again later.</string>
+    <string name="Login">Login</string>
+    <string name="Register">Register</string>
+    <string name="about_us">About Us</string>
+    <string name="progressMessage">Please wait&#8230;</string>
+    <string name="PleaseMessage">Please wait</string>
+    <string name="MemberShip">MemberShip Enquiry</string>
+    <string name="ContactUs">Contact us</string>
+    <string name="submit">Submit</string>
+    <string name="Gallery">Gallery</string>
+    <string name="Save">Save</string>
+    <string name="Sponsor">Sponsor</string>
+    <string name="No">No</string>
+    <string name="Yes">Yes</string>
+    <string name="no_camera">Your deivce doesn\'t support camera.</string>
+
+
+    <!---->
+    <string name="photocategory">Photo Category</string>
+    <string name="photoGallery">Photo Gallery</string>
+    <string name="Videocategory">Video Category</string>
+    <string name="CelebrityVideo">Celebrity Video</string>
+    <string name="sponsor">Sponsor</string>
+    <string name="inquiry">Inquiry</string>
+
+    <string name="LIVESTREAM">LIVE STREAM</string>
+    <string name="PHOTO">PHOTO</string>
+    <string name="SPONSOR">SPONSOR</string>
+    <string name="VIDEO">VIDEO</string>
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+
+    <!-- Inqiury-->
+    <string name="enter_your_name">Enter your name</string>
+    <string name="name">Name</string>
+    <string name="emails">Email</string>
+    <string name="email_hint">Enter Your Email</string>
+    <string name="mobile_no">Mobile No</string>
+    <string name="enter_your_moblie_no">Enter your mobile no</string>
+    <string name="comments">Comments</string>
+    <string name="enter_your_comments">Enter Your Comments</string>
+    <string name="api_key">AIzaSyDeTApUjOGOhGUsDG64LZF-KMwtgfyHTjc</string>
+
+
+    <string name="validation_email">Please enter valid email address</string>
+    <string name="validation_state">Please select State</string>
+    <string name="validation_password">Password length should be 5–15 characters.</string>
+    <string name="validation_name">Please enter Name</string>
+    <string name="validation_cpassword">Please enter confirm password</string>
+    <string name="validation_password_match">Password and confirm password doesn\'t match!</string>
+    <string name="validation_true">true</string>
+    <string name="validation_mobile_no">Please enter mobile no</string>
+    <string name="valid_mobile_no">Please enter valid mobile no</string>
+    <string name="validation_comment">Please enter Comment</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="vitamio_library_app_name">VitamioLibrary</string>
+    <string name="vitamio_init_decoders">Initializing decoders…</string>
+    <string name="permission_group_tools_label">Vitamio tools</string>
+    <string name="permission_group_tools_description">Access Vitamio package and resources.</string>
+    <string name="permission_receive_messages_label">Receive Vitamio messages</string>
+    <string name="permission_receive_messages_description">Receive all broadcasts from Vitamio service.</string>
+    <string name="permission_write_providers_label">Write Vitamio providers</string>
+    <string name="permission_write_providers_description">Delete, update or create new items in Vitamio providers.
+    </string>
+    <string name="VideoView_error_title">Cannot play video</string>
+    <string name="VideoView_error_text_invalid_progressive_playback">Sorry, this video is not valid for streaming to
+        this device.
+    </string>
+    <string name="VideoView_error_text_unknown">Sorry, this video cannot be played.</string>
+    <string name="VideoView_error_button">OK</string>
+    <string name="mediacontroller_play_pause">Play/Pause</string>
+
+    <string name="Saving_Image">"Saving Image"</string>
+    <string name="Sharing_Image">"Sharing Image"</string>
+    <string name="Image_Saved_Successfully">"Image Saved Successfully..!!"</string>
+    <string name="Diamond_Image">"Diamond Image"</string>
+    <string name="title_activity_booking">BookingActivity</string>
+
+
+</resources>

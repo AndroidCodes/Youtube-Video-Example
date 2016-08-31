@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#E31E24</color>
+    <color name="colorPrimaryDark">#B6181D</color>
+    <color name="colorAccent">#E31E24</color>
+    <color name="myWindowBackground">#EFEFEF</color>
+    <color name="colorMainBg">#FAFAFA</color>
+    <color name="myTextPrimaryColor">#FFFFFF</color>
+    <color name="myTextHintColor">#797979</color>
+    <color name="actionbar_color">#CCAA2117</color>
+
+    <!-- other color -->
+    <color name="colorControlActivated">#FF03A9F4</color>
+    <color name="black">#000000</color>
+    <color name="txtColor">#A8A8A8</color>
+    <color name="TextColor">#212121</color>
+    <color name="white">#FFFFFF</color>
+    <color name="deviderColor">#B6B6B6</color>
+    <color name="transparent">#00000000</color>
+    <color name="grey">#808080</color>
+    <color name="red">#D13133</color>
+    <color name="bg_tab">#d7d4cf</color>
+    <color name="et_divider_focused">@color/colorControlActivated</color>
+    <color name="et_divider_not_focused">#FF6D6D6D</color>
+    <color name="et_divider_disable">#FFC1C1C1</color>
+    <color name="bg_btn">#EDE31E24</color>
+    <color name="bg_layout">#F0F0F0</color>
+    <color name="color_txt">#BD7C12</color>
+    <color name="rippelColor">#FFFFFF</color>
+
+    <color name="ColorWhite">#FFFFFF</color>
+    <color name="BorderColor">#C2C3B8</color>
+
+    <color name="mediacontroller_bg_pressed">#ff53c1bd</color>
+    <color name="mediacontroller_bg">#99000000</color>
+    <color name="btn_selector">#50000000</color>
+
+
+
+</resources>

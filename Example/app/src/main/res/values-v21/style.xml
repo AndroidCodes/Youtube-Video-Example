@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppBaseTheme" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:colorPrimary">@color/colorPrimary</item>
+        <item name="android:colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="android:colorAccent">@color/colorPrimary</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:actionModeBackground">@color/colorPrimary</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:actionModeStyle">@style/ActionBar.Transparent.TMessages.Start</item>
+        <!-- <item name="windowActionBar">false</item> -->
+
+        <item name="android:textColorPrimary">@color/myTextPrimaryColor</item>
+        <item name="android:windowBackground">@color/myWindowBackground</item>
+        <item name="android:windowAllowEnterTransitionOverlap">true</item>
+        <item name="android:windowAllowReturnTransitionOverlap">true</item>
+        <item name="android:windowSharedElementEnterTransition">@android:transition/move</item>
+        <item name="android:windowSharedElementExitTransition">@android:transition/move</item>
+    </style>
+
+    <!-- recycler_view_fast_scroller__bubble -->
+    <!-- ACTION BAR -->
+    <style name="ActionBar.Transparent.TMessages.Start" parent="android:style/Widget.Material.Light.ActionBar">
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="android:homeAsUpIndicator">@drawable/ic_back</item>
+        <item name="android:title">""</item>
+    </style>
+
+</resources>

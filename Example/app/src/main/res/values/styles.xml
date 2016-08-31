@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <!--&lt;!&ndash; Base application theme. &ndash;&gt;-->
+    <!--<style name="AppTheme" parent="AppBaseTheme" />-->
+
+    <!--<style name="AppBaseTheme" parent="android:Theme.Holo.Light.NoActionBar">-->
+
+    <!--&lt;!&ndash; <style name="AppBaseTheme" parent="Theme.AppCompat.Light.NoActionBar"> &ndash;&gt;-->
+
+
+    <!--&lt;!&ndash; android:Theme.Holo.Light.NoActionBar &ndash;&gt;-->
+
+
+    <!--&lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+    <!--<item name="colorPrimary">@color/colorPrimary</item>-->
+    <!--<item name="colorPrimaryDark">@color/colorPrimaryDark</item>-->
+    <!--<item name="colorAccent">@color/colorPrimary</item>-->
+    <!--<item name="windowActionModeOverlay">true</item>-->
+    <!--<item name="android:windowNoTitle">true</item>-->
+    <!--<item name="windowActionBar">false</item>-->
+    <!--<item name="android:windowContentOverlay">@null</item>-->
+    <!--<item name="android:textColorPrimary">@color/myTextPrimaryColor</item>-->
+    <!--<item name="android:windowBackground">@color/myWindowBackground</item>-->
+    <!--<item name="actionMenuTextColor">@color/white</item>-->
+    <!--<item name="android:actionModeBackground">@color/colorPrimary</item>-->
+    <!--<item name="android:actionModeStyle">@style/ActionBar.Transparent.TMessages.Start</item>-->
+    <!--</style>-->
+
+    <!-- ics_fastscroll_label_left -->
+
+    <style name="ToolBarStyle" parent="">
+        <item name="popupTheme">@style/ThemeOverlay.AppCompat.Light</item>
+        <item name="theme">@style/ThemeOverlay.AppCompat.Dark.ActionBar</item>
+    </style>
+
+    <style name="MyCustomTheme" parent="android:Theme.Holo.Light.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowAnimationStyle">@style/MyAnimation.Window</item>
+    </style>
+
+    <style name="MyAnimation.Window" parent="@android:style/Animation.Activity">
+        <item name="android:windowEnterAnimation">@anim/slide_in_left_activity</item>
+        <item name="android:windowExitAnimation">@anim/slide_out_right_activity</item>
+    </style>
+
+    <style name="Dialog_No_Border">
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowBackground">@color/transparent</item>
+    </style>
+
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+        <item name="windowActionModeOverlay">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:textColorPrimary">@color/myTextPrimaryColor</item>
+        <item name="android:windowBackground">@color/myWindowBackground</item>
+        <item name="actionMenuTextColor">@color/ColorWhite</item>
+        <item name="android:actionModeBackground">@color/colorPrimary</item>
+        <item name="android:buttonStyle">@style/Button</item>
+        <item name="colorControlNormal">@color/ColorWhite</item>
+
+    </style>
+
+    <style name="Button" parent="Widget.AppCompat.Button">
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+
+    <style name="CommonDialog" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/anticipate_overshoot</item>
+        <item name="android:windowExitAnimation">@anim/fade_out</item>
+        <item name="android:typeface">serif</item>
+    </style>
+
+
+    <style name="DialogAnimation">
+        <item name="android:windowEnterAnimation">@android:anim/slide_in_left</item>
+        <item name="android:windowExitAnimation">@anim/slide_in_right</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+
+</resources>

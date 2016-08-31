@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- hdpi -->
+
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="actionbar_height">56dp</dimen>
+    <!--  -->
+    <dimen name="standard_padding">8dip</dimen>
+    <dimen name="toolbar_height">56dp</dimen>
+    <dimen name="half_padding">4dip</dimen>
+    <dimen name="text_tiny_small_1">8sp</dimen>
+    <dimen name="text_tiny_small">10sp</dimen>
+    <dimen name="text_small">12sp</dimen>
+    <dimen name="text_small_1">12sp</dimen>
+    <dimen name="text_medium">14sp</dimen>
+    <dimen name="text_large">16sp</dimen>
+    <dimen name="text_xlarge">18sp</dimen>
+    <dimen name="text_xxlarge">20sp</dimen>
+    <dimen name="text_big">22sp</dimen>
+    <dimen name="text_xbig">24sp</dimen>
+    <dimen name="text_zbig">26sp</dimen>
+    <dimen name="text_zzbig">28sp</dimen>
+    <dimen name="text_xxbig">32sp</dimen>
+    <dimen name="text_xxxbig">36sp</dimen>
+    <dimen name="text_ybig">38sp</dimen>
+    <dimen name="u_big">42sp</dimen>
+    <dimen name="u_xbig">44sp</dimen>
+    <dimen name="u_xxbig">52sp</dimen>
+    <dimen name="layout">42dp</dimen>
+
+    <!-- Button Dimen -->
+    <dimen name="button_height">36dp</dimen>
+    <dimen name="button_width">250dp</dimen>
+    <dimen name="button_margin">3dp</dimen>
+    <dimen name="button_padding">3dp</dimen>
+    <dimen name="topup_width">280dp</dimen>
+
+    <!-- img dimension -->
+    <dimen name="img_width">110dp</dimen>
+    <dimen name="img_height">110dp</dimen>
+    <dimen name="flag_height">145dp</dimen>
+    <dimen name="c_flag_height">85dp</dimen>
+    <dimen name="night_bg_height">210dp</dimen>
+    <dimen name="night_bg_margin_top">110dp</dimen>
+    <dimen name="img_left">80dp</dimen>
+    <dimen name="h_list_width">100dp</dimen>
+    <dimen name="h_list_width_1">120dp</dimen>
+    <dimen name="corner_1">60dp</dimen>
+    <dimen name="corner">50dp</dimen>
+
+    <!-- profile image -->
+    <dimen name="profile_img_width">150dp</dimen>
+    <dimen name="profile_img_height">150dp</dimen>
+
+    <!-- event image -->
+    <dimen name="event_image_height">135dp</dimen>
+    <dimen name="sponsor_image_height">120dp</dimen>
+
+    <!-- main screen -->
+    <dimen name="main_margin_top">50dp</dimen>
+    <dimen name="main_img_height">100dp</dimen>
+
+    <dimen name="top_height">160dp</dimen>
+    <dimen name="bottom_height">120dp</dimen>
+    <dimen name="add_1_height">72dp</dimen>
+    <dimen name="add_2_height">72dp</dimen>
+    <dimen name="d_top_height">100dp</dimen>
+    <dimen name="d_bottom_height">70dp</dimen>
+</resources>
